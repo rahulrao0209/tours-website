@@ -1,0 +1,22 @@
+{
+  "name": "tours-website",
+  "version": "1.0.0",
+  "description": "Landing Page for tours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulrao0209/tours-website.git"
+  },
+  "author": "Rahul Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulrao0209/tours-website/issues"
+  },
+  "homepage": "https://github.com/rahulrao0209/tours-website#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
