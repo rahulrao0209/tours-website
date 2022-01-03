@@ -1,1 +1,1 @@
-A website created using plain HTML and CSS
+A website landing page created using HTML, CSS and SASS.
